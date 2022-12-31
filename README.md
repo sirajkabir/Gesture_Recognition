@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hand Gesture Project<br>👯 It's a virtual mouse and it can detect fully palm<br>🤝 It can work as a virtual mouse by showing peace sign to the camera so it can detect it<br>🌱 You can use it as virtual mouse by clicking on anything using index finger down while making peace sign <br>⚡ Fun fact is we can add several functions like adjusting brighteness and volume using different hand gestures.
+🔭 I’m currently working on Hand Gesture Project<br>👯 It's a virtual mouse and it can detect full hand palm<br>🤝 It can work as a virtual mouse by showing peace sign to the camera so it can detect it<br>🌱 You can use it as virtual mouse by clicking on anything using index finger down while making peace sign <br>⚡ Fun fact is we can add several functions like adjusting brighteness and volume using different hand gestures.
 
 
 ## 🌐 Socials:
