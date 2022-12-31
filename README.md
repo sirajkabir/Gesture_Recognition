@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hand Gesture Project<br>👯 I’m looking to collaborate on data science<br>🤝 I’m looking for help with making my hand gesture run on 30 fps<br>🌱 I’m currently learning Python for ML and AI<br>⚡ Fun fact is I am starting my career as Python dev
+🔭 I’m currently working on Hand Gesture Project<br>👯 It's a virtual mouse and it can detect fully palm<br>🤝 It can work as a virtual mouse by showing peace sign to the camera so it can detect it<br>🌱 You can use it as virtual mouse by clicking on anything using index finger down while making peace sign <br>⚡ Fun fact is we can add several functions like adjusting brighteness and volume using different hand gestures.
 
 
 ## 🌐 Socials:
